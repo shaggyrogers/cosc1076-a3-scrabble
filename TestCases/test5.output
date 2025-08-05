@@ -1,0 +1,65 @@
+Welcome to Scrabble!
+--------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+
+> Enter the filename from which to load a game
+
+> Save file 'TestCases/File.nonexistent' does not exist or could not be read.
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+
+> Enter the filename from which to load a game
+
+> Failed to load save file (stoi)
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+
+> Enter the filename from which to load a game
+
+> Mike, it's your turn
+Score for Mike: 216
+Score for Marci: 115
+    1   2   3   4   5   6   7   8   9   10  11  12  13  14  15
+  -------------------------------------------------------------
+A |[32m O[0m |[34m A[0m |[32m V[0m |[34m V[0m |[32m O[0m |[34m J[0m |[32m  [0m |[34m  [0m |[32m Q[0m |[34m I[0m |[32m T[0m |[34m X[0m |[32m C[0m |[34m A[0m |[32m  [0m |
+B |[31m S[0m |[35m O[0m |[31m Z[0m |[35m A[0m |[31m U[0m |[35m U[0m |[31m  [0m |[35m  [0m |[31m P[0m |[35m G[0m |[31m I[0m |[35m Y[0m |[31m L[0m |[35m A[0m |[31m O[0m |
+C |[32m  [0m |[34m T[0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m D[0m |[34m D[0m |[32m L[0m |[34m T[0m |[32m R[0m |[34m M[0m |[32m H[0m |
+D |[31m  [0m |[35m R[0m |[31m I[0m |[35m G[0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m O[0m |[35m N[0m |[31m I[0m |[35m I[0m |[31m A[0m |[35m E[0m |[31m N[0m |
+E |[32m  [0m |[34m A[0m |[32m  [0m |[34m O[0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m S[0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+F |[31m  [0m |[35m Y[0m |[31m  [0m |[35m O[0m |[31m  [0m |[35m R[0m |[31m  [0m |[35m  [0m |[31m E[0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+G |[32m  [0m |[34m  [0m |[32m  [0m |[34m F[0m |[32m E[0m |[34m E[0m |[32m T[0m |[34m  [0m |[32m I[0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+H |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m E[0m |[31m  [0m |[35m  [0m |[31m A[0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+I |[32m  [0m |[34m  [0m |[32m  [0m |[34m H[0m |[32m O[0m |[34m L[0m |[32m E[0m |[34m  [0m |[32m C[0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+J |[31m  [0m |[35m  [0m |[31m  [0m |[35m E[0m |[31m  [0m |[35m  [0m |[31m L[0m |[35m  [0m |[31m K[0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m I[0m |[35m F[0m |[31m  [0m |
+K |[32m  [0m |[34m G[0m |[32m U[0m |[34m N[0m |[32m  [0m |[34m B[0m |[32m I[0m |[34m N[0m |[32m S[0m |[34m  [0m |[32m  [0m |[34m R[0m |[32m  [0m |[34m I[0m |[32m  [0m |
+L |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m M[0m |[35m  [0m |[31m T[0m |[35m  [0m |[31m R[0m |[35m E[0m |[31m A[0m |[35m R[0m |[31m S[0m |
+M |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m W[0m |[32m A[0m |[34m N[0m |[32m E[0m |[34m D[0m |[32m T[0m |[34m E[0m |[32m D[0m |
+N |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m P[0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m E[0m |[35m  [0m |[31m E[0m |
+O |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m B[0m |
+
+Your hand is
+U-1
+
+> > Played word 'U' (+1 points)
+Game over
+Score for Mike: 217
+Score for Marci: 115
+Player Mike won!
+
+Bye!

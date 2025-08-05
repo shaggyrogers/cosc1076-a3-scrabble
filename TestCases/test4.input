@@ -1,0 +1,132 @@
+2
+TestCases/test4.save
+replace A
+place B at K6
+place I at K7
+place N at K8
+place done
+place M at L7
+place L at J7
+place E at I6
+place done
+place M at L7
+place L at J7
+place E at I7
+place done
+place W at K6
+place done
+pass
+PLACE  I  AT    J13
+PLACE DONE
+place done
+pass done
+place H at I4
+place O at I5
+place L at I6
+place @ at @
+quit
+pass
+place T at Z-1
+place T at A16
+place done
+place H at I4
+place O at I5
+place L at I6
+place Done
+replace V
+replace V
+replace O
+replace J
+replace U
+place E at J4
+place N at K4
+Place Done
+place G at K1
+place U at K2
+place Done
+place G at K1
+place U at K3
+place done
+place G at K2
+place U at K3
+place done
+replace W
+place E at H6
+place E at G6
+place R at F6
+place done
+place F at G4
+place E at G5
+place T at G7
+place done
+place G at D4
+place O at E4
+place O at F4
+place done
+place R at D2
+place I at D3
+place done
+place T at C2
+place A at E2
+place Y at F2
+place done
+place K at J9
+place C at I9
+place A at H9
+place I at G9
+place E at F9
+place S at E9
+place O at D9
+place done
+place N at D10
+place I at D11
+place I at D12
+place A at D13
+place E at D14
+place N at D15
+place done
+place D at C9
+place D at C10
+place L at C11
+place T at C12
+place R at C13
+place M at C14
+place H at C15
+place done
+place P at B9
+place G at B10
+place I at B11
+place Y at B12
+place L at B13
+place A at B14
+place O at B15
+place done
+place Q at A9
+place I at A10
+place T at A11
+place X at A12
+place C at A13
+place A at A14
+place done
+place S at B1
+place O at B2
+place Z at B3
+place A at B4
+place U at B5
+place U at B6
+place done
+place O at A1
+place A at A2
+place V at A3
+place V at A4
+place O at A5
+place J at A6
+place done
+pass
+save test4.actualsave
+place U at M1
+place done
+pass
+place N at J2
+place W at L2
+place done

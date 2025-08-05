@@ -1,0 +1,16 @@
+2
+TestCases/test6.save
+place F at C3
+place R at C4
+place K at C5
+place done
+pass
+place T at C3
+place E at C4
+place E at C5
+place done
+place R at C6
+place done
+place Q at C7
+place done
+save TestCases/test6.expsave

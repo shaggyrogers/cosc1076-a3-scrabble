@@ -1,0 +1,137 @@
+Welcome to Scrabble!
+--------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+
+> Enter the filename from which to load a game
+
+> Jeff, it's your turn
+Score for Jeff: 0
+Score for Bob: 0
+    1   2   3   4   5   6   7   8   9   10  11  12  13  14  15
+  -------------------------------------------------------------
+A |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+B |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+C |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+D |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+E |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+F |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+G |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+H |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+I |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+J |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+K |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+L |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+M |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+N |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+O |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+
+Your hand is
+C-3, E-1, M-3, U-1, O-1, T-1, B-3
+
+> The following commands are available:
+
+pass                          Skip your turn.
+quit                          Quit the game.
+save {name}                   Save the game, creating a save file with the given name.
+replace {letter}              Replace a tile with one from the tile bag. The tile letter must be
+                              capitalised.
+place {letter} at {position}  Place one or more tiles onto the board. Positions have the format
+                              {row}{column} where row is a capital letter referring to a board row,
+                              and column is a number referring to a board column.
+place done                    Finish placing tiles.
+help                          Show this message.
+
+> Bob, it's your turn
+Score for Jeff: 0
+Score for Bob: 0
+    1   2   3   4   5   6   7   8   9   10  11  12  13  14  15
+  -------------------------------------------------------------
+A |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+B |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+C |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+D |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+E |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+F |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+G |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+H |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+I |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+J |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+K |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+L |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+M |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+N |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+O |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+
+Your hand is
+U-1, G-2, L-1, G-2, Y-4, I-1, Z-10
+
+> The following commands are available:
+
+pass                          Skip your turn.
+quit                          Quit the game.
+save {name}                   Save the game, creating a save file with the given name.
+replace {letter}              Replace a tile with one from the tile bag. The tile letter must be
+                              capitalised.
+place {letter} at {position}  Place one or more tiles onto the board. Positions have the format
+                              {row}{column} where row is a capital letter referring to a board row,
+                              and column is a number referring to a board column.
+place done                    Finish placing tiles.
+help                          Show this message.
+
+> Jeff, it's your turn
+Score for Jeff: 0
+Score for Bob: 0
+    1   2   3   4   5   6   7   8   9   10  11  12  13  14  15
+  -------------------------------------------------------------
+A |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+B |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+C |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+D |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+E |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+F |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+G |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+H |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+I |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+J |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+K |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+L |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+M |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+N |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |[35m  [0m |[31m  [0m |
+O |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |[34m  [0m |[32m  [0m |
+
+Your hand is
+C-3, E-1, M-3, U-1, O-1, T-1, B-3
+
+> The following commands are available:
+
+pass                          Skip your turn.
+quit                          Quit the game.
+save {name}                   Save the game, creating a save file with the given name.
+replace {letter}              Replace a tile with one from the tile bag. The tile letter must be
+                              capitalised.
+place {letter} at {position}  Place one or more tiles onto the board. Positions have the format
+                              {row}{column} where row is a capital letter referring to a board row,
+                              and column is a number referring to a board column.
+place done                    Finish placing tiles.
+help                          Show this message.
+
+> The following commands are available:
+
+pass                          Skip your turn.
+quit                          Quit the game.
+save {name}                   Save the game, creating a save file with the given name.
+replace {letter}              Replace a tile with one from the tile bag. The tile letter must be
+                              capitalised.
+place {letter} at {position}  Place one or more tiles onto the board. Positions have the format
+                              {row}{column} where row is a capital letter referring to a board row,
+                              and column is a number referring to a board column.
+place done                    Finish placing tiles.
+help                          Show this message.
+
+> 
