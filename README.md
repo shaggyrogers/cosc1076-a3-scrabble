@@ -2,3 +2,5 @@
 A two-player scrabble implementation with a CLI interface. Created in 2022 while at RMIT for COSC1076 - Advanced Programming Techniques.
 
 This was a group project, created in collaboration (in some sense) with Angelica Celis and Yong Chuen Yeo.
+
+Please don't judge the excessive redundant comments, I have since changed my ways.
